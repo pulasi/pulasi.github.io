@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/pulasi/pulasi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pulasi/pulasi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+有没有那么一片天
+在我要窒息的时候
+待着待着会活顺畅，
+有没有那么一个人
+在我不幸福的时候
+陪着陪着便会幸福，
+有没有那么一句话
+在我很茫然的时候
+看着看着不再茫然，
+有没有那么一首歌
+在我不快乐的时候
+听着听着变的快乐，
+有没有那么一条河
+经我快干涸的地方
+淌着淌着就拯救我，
+有没有那么一段字
+在我两眼模糊之时
+看着看着就能明亮，
+有没有那么一支笔
+虽我双手颤抖无措
+握着握着从而流利，
+有没有那么一方土
+即使我变得很软弱
+也会站着站着坚强。
