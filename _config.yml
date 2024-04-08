@@ -1,8 +1,8 @@
 title: ALLEDA
-description: 
-author: pulasi
-github: 
-about: I
+description: My Personal ALLEDA
+author: Agus Makmun
+github: https://github.com/pulasi
+about: 
 disqus_shortname: ALLEDA
 google_analytics: UA-XXXXXXXX-Y
 
@@ -27,8 +27,8 @@ social:
       link: "https://github.com/pulasi"
 
 share:
-  twitter_username: 
-  fb_appid: 
+  twitter_username: github.io
+  fb_appid: pulasi
 
 urls:
     - text: About Me
