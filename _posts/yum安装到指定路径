@@ -1,3 +1,12 @@
+---
+layout: post
+title: yum安装到指定路径
+date: 2024-3-03
+categories: blog
+tags: [yum,linux]
+description: yum。
+---
+
 rpm指定路径安装
 `rpm -ivh --relocate /=/opt/temp xxx.rpm；`
 以prefix进行安装：
