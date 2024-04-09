@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "yum install a specify path"
+date:   2024-04-08 23:15:00 +0700
+categories: [python, django]
+---
+
 rpm指定路径安装
 `rpm -ivh --relocate /=/opt/temp xxx.rpm；`
 以prefix进行安装：
