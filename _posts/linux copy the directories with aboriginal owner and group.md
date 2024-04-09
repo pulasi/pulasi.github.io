@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "linux copy the directories with aboriginal owner and group"
+date:   2024-04-08 23:15:00 +0700
+categories: [python, django]
+---
+
 python脚本：
 
 ```python
