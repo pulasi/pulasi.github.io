@@ -1,3 +1,12 @@
+---
+layout: post
+title:  yum挂载本地源
+date: 2024-4-09
+categories: blog
+tags: [yum,linux]
+description: yum挂载本地源。
+---
+
 `mkdir   /xxx    创建一个目录
 mount  /xxx/xxx.iso   /xxx   把镜像挂载到上一步创建的目录，必须是与主机版本相同的镜像`
 设定永久挂载
