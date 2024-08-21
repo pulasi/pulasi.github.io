@@ -1,11 +1,13 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "ALL EDA SUPPORT " 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+alleda support……
+QQ：46927219
+mail：plus77#qq.com
 
 
 
